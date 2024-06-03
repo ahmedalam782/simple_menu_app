@@ -132,7 +132,7 @@ List<FoodGridModel> getFoodGrid() {
       FoodGridModel(
           image: 'assets/images/Ketchup.png',
           foodDescription: '',
-          foodName: 'Ketchup',
+          foodName: 'Ketchup ',
           foodPrice: '2.3 EGP'),
       FoodGridModel(
           image: 'assets/images/Mayonnaise.png',
